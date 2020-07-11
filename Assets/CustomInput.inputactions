@@ -1,0 +1,33 @@
+{
+    "name": "CustomInput",
+    "maps": [
+        {
+            "name": "Joystic",
+            "id": "d967215e-1864-482d-9a47-8075dbe71a0e",
+            "actions": [
+                {
+                    "name": "move",
+                    "type": "Value",
+                    "id": "f6eb3589-aa90-4298-ad50-5c8f3514cf79",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cbda3dde-f239-4078-9b06-886709780772",
+                    "path": "<HID::OpenChord X RMIT Exertion Games Lab UnoJoy Joystick>/stick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
